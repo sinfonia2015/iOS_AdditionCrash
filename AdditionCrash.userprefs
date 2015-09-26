@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\DATA\Unity\Unity5.0\memotype\Assets\Scripts\AI\StatusError.cs">
+    <Files>
+      <File FileName="..\..\..\..\..\DATA\Unity\Unity5.0\memotype\Assets\Scripts\AI\StatusError.cs" Line="44" Column="9" />
+      <File FileName="..\..\..\..\..\DATA\Unity\Unity5.0\memotype\Assets\Scripts\AI\SoldierBehaviour.cs" Line="384" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
